@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ScribewareSite.Lib/ScribewareSite.Lib.csproj" />
+  <Project Path="ScribewareSite.Tests/ScribewareSite.Tests.csproj" />
+  <Project Path="ScribeWareSite.Web/ScribeWareSite.Web.csproj" />
+</Solution>

@@ -1,0 +1,35 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+h2 {
+    font-weight: bold;
+    font-style: italic;
+    color: #bb0;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+}
+
+p.details {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+
+}
