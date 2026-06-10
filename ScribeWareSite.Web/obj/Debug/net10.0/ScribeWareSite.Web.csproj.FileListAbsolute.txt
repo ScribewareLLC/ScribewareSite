@@ -132,3 +132,4 @@ F:\ScribewareSite\ScribewareSite\ScribeWareSite.Web\obj\Debug\net10.0\refint\Scr
 F:\ScribewareSite\ScribewareSite\ScribeWareSite.Web\obj\Debug\net10.0\ScribeWareSite.Web.pdb
 F:\ScribewareSite\ScribewareSite\ScribeWareSite.Web\obj\Debug\net10.0\ScribeWareSite.Web.genruntimeconfig.cache
 F:\ScribewareSite\ScribewareSite\ScribeWareSite.Web\obj\Debug\net10.0\ref\ScribeWareSite.Web.dll
+F:\ScribewareSite\ScribewareSite\ScribeWareSite.Web\obj\Debug\net10.0\compressed\gc97peszhx-{0}-1q40fevlyi-1q40fevlyi.gz

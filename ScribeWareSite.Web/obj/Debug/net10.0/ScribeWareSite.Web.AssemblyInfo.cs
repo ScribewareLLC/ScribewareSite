@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScribeWareSite.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec2e20ed6e92575514d10d29c824c86f48c18e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+789a7c5c296a7e434947a0b678b9cccc2be5af85")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScribeWareSite.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScribeWareSite.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
